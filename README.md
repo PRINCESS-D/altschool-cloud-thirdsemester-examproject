@@ -76,10 +76,10 @@ This action will perform the following steps:
 
 ## Endpoints
 Once the deployment is complete, you can access the following endpoints:
-- Sock Shop: http://front.k8s.shadowinc.xyz
-- Kibana: http://kibana.k8s.shadowinc.xyz
-- Grafana: http://grafana.k8s.shadowinc.xyz
-- Default Backend: http://default.k8s.shadowinc.xyz
+- Sock Shop: https://front.k8s.shadowinc.xyz
+- Kibana: https://kibana.k8s.shadowinc.xyz
+- Grafana: https://grafana.k8s.shadowinc.xyz
+- Default Backend: https://default.k8s.shadowinc.xyz
 
 ## Cleanup
 To destroy the resources created by Terraform, navigate to the `terraform` directory and run `terraform destroy`:
